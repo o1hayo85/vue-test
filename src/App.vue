@@ -3,7 +3,7 @@
 
 <template>
   <div>
-    test
+    jenkins test
   </div>
 </template>
 
