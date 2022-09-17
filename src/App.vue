@@ -5,6 +5,9 @@
   <div>
     jenkins test
   </div>
+  <div>
+    first
+  </div>
 </template>
 
 <style scoped>
